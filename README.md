@@ -1,3 +1,8 @@
+# Preview
+
+<img width="688" alt="Captura de Tela 2023-02-25 às 16 00 53" src="https://user-images.githubusercontent.com/54703843/221374952-fd87c029-ef3e-40a4-b328-0ee135ace718.png">
+
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
